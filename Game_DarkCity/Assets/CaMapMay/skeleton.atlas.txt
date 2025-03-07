@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banmaybay_3
+  rotate: false
+  xy: 2, 2
+  size: 340, 188
+  orig: 340, 188
+  offset: 0, 0
+  index: -1

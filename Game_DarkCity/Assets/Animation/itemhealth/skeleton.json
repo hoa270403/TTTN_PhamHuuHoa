@@ -1,0 +1,68 @@
+{
+"skeleton": {
+	"hash": "k4lWyYhxGRRKbzAYfwzCcOJVeps",
+	"spine": "3.8.75-beta",
+	"x": -48.16,
+	"y": -37,
+	"width": 99.66,
+	"height": 93,
+	"images": "E:/AssetGame/image/itemHealth",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -0.38, "y": 3.37 },
+	{ "name": "bone2", "parent": "root", "x": -25.66, "y": -6.79 },
+	{ "name": "bone3", "parent": "root", "x": 32.96, "y": 14.74, "scaleX": 0.6353, "scaleY": 0.6353 }
+],
+"slots": [
+	{ "name": "snapedit_1740666356697", "bone": "bone", "attachment": "snapedit_1740666356697" },
+	{ "name": "lens-flare-png-6913", "bone": "bone2", "attachment": "lens-flare-png-6913" },
+	{ "name": "lens-flare-png-6914", "bone": "bone3", "attachment": "lens-flare-png-6913" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"lens-flare-png-6913": {
+				"lens-flare-png-6913": { "x": 1, "y": 0.09, "width": 47, "height": 47 }
+			},
+			"lens-flare-png-6914": {
+				"lens-flare-png-6913": { "x": 1, "y": 0.09, "width": 47, "height": 47 }
+			},
+			"snapedit_1740666356697": {
+				"snapedit_1740666356697": { "x": 4.38, "y": 6.13, "width": 95, "height": 93 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bone": {
+				"rotate": [
+					{},
+					{ "time": 0.3333, "angle": -26.28 },
+					{ "time": 0.6667 },
+					{ "time": 1, "angle": -26.28 },
+					{ "time": 1.3333 }
+				]
+			},
+			"bone2": {
+				"scale": [
+					{},
+					{ "time": 0.6667, "x": 0.029, "y": 0.029 },
+					{ "time": 1.3333 }
+				]
+			},
+			"bone3": {
+				"scale": [
+					{ "time": 0.2667 },
+					{ "time": 0.8333, "x": 0.029, "y": 0.029 },
+					{ "time": 1.3333 }
+				]
+			}
+		}
+	}
+}
+}

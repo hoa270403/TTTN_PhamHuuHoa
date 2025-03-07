@@ -1,0 +1,202 @@
+
+spineboy-unity.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b/Untitled-1_0000_snapedit_1732426596987
+  rotate: true
+  xy: 404, 41
+  size: 117, 184
+  orig: 117, 184
+  offset: 0, 0
+  index: -1
+b/Untitled-1_0001_Layer-19-copy
+  rotate: true
+  xy: 590, 39
+  size: 119, 178
+  orig: 119, 178
+  offset: 0, 0
+  index: -1
+b/b_0000_Layer-11
+  rotate: false
+  xy: 713, 254
+  size: 359, 253
+  orig: 359, 253
+  offset: 0, 0
+  index: -1
+b/b_0001_snapedit_1732427598233-copy
+  rotate: false
+  xy: 1361, 263
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+b/b_0002_snapedit_1732427598233
+  rotate: false
+  xy: 1390, 424
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+b/b_0003_front_thigh
+  rotate: false
+  xy: 1340, 395
+  size: 48, 112
+  orig: 48, 112
+  offset: 0, 0
+  index: -1
+b/b_0004_front_fist_open
+  rotate: false
+  xy: 1200, 8
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+b/b_0005_rear_thigh
+  rotate: false
+  xy: 1291, 97
+  size: 65, 103
+  orig: 65, 103
+  offset: 0, 0
+  index: -1
+b/b_0006_Layer-18
+  rotate: false
+  xy: 1031, 4
+  size: 167, 180
+  orig: 167, 180
+  offset: 0, 0
+  index: -1
+b/b_0008_rear_upper_arm
+  rotate: true
+  xy: 1361, 214
+  size: 47, 87
+  orig: 47, 87
+  offset: 0, 0
+  index: -1
+b/b_0009_front_fist_closed
+  rotate: false
+  xy: 1358, 118
+  size: 75, 82
+  orig: 75, 82
+  offset: 0, 0
+  index: -1
+b/b_0010_front_upper_arm
+  rotate: true
+  xy: 1340, 339
+  size: 54, 97
+  orig: 54, 97
+  offset: 0, 0
+  index: -1
+b/b_0013_front_foot_bend1
+  rotate: false
+  xy: 713, 182
+  size: 128, 70
+  orig: 128, 70
+  offset: 0, 0
+  index: -1
+b/b_0014_front_foot_bend2
+  rotate: true
+  xy: 1090, 187
+  size: 108, 93
+  orig: 108, 93
+  offset: 0, 0
+  index: -1
+b/b_0015_rear_foot_bend2
+  rotate: true
+  xy: 1185, 192
+  size: 103, 83
+  orig: 103, 83
+  offset: 0, 0
+  index: -1
+b/b_0016_rear_foot_bend1
+  rotate: false
+  xy: 971, 186
+  size: 117, 66
+  orig: 117, 66
+  offset: 0, 0
+  index: -1
+b/b_0017_rear_foot
+  rotate: false
+  xy: 1288, 35
+  size: 113, 60
+  orig: 113, 60
+  offset: 0, 0
+  index: -1
+b/b_0018_front_foot
+  rotate: false
+  xy: 843, 183
+  size: 126, 69
+  orig: 126, 69
+  offset: 0, 0
+  index: -1
+b/b_0019_Group-2
+  rotate: false
+  xy: 770, 14
+  size: 259, 166
+  orig: 259, 166
+  offset: 0, 0
+  index: -1
+b/b_0020_Group-1
+  rotate: false
+  xy: 404, 160
+  size: 307, 347
+  orig: 307, 347
+  offset: 0, 0
+  index: -1
+eye_indifferent
+  rotate: true
+  xy: 1200, 97
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+eye_surprised
+  rotate: true
+  xy: 1270, 202
+  size: 93, 89
+  orig: 93, 89
+  offset: 0, 0
+  index: -1
+gun
+  rotate: true
+  xy: 1074, 297
+  size: 210, 203
+  orig: 210, 203
+  offset: 0, 0
+  index: -1
+mouth_grind
+  rotate: true
+  xy: 1403, 23
+  size: 93, 59
+  orig: 93, 59
+  offset: 0, 0
+  index: -1
+mouth_oooo
+  rotate: true
+  xy: 1279, 414
+  size: 93, 59
+  orig: 93, 59
+  offset: 0, 0
+  index: -1
+mouth_smile
+  rotate: true
+  xy: 1279, 319
+  size: 93, 59
+  orig: 93, 59
+  offset: 0, 0
+  index: -1
+muzzle
+  rotate: true
+  xy: 2, 45
+  size: 462, 400
+  orig: 462, 400
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 2, 2
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1

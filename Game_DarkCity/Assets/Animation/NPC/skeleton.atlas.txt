@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+snapedit_1741322862671
+  rotate: false
+  xy: 2, 2
+  size: 215, 269
+  orig: 215, 269
+  offset: 0, 0
+  index: -1

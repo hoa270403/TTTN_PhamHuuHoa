@@ -1,0 +1,175 @@
+{
+"skeleton": {
+	"hash": "d8Sb3HlCFdqkXwCsVwZxcN8ZMWA",
+	"spine": "3.8.75-beta",
+	"x": -147.32,
+	"y": -82.9,
+	"width": 285,
+	"height": 191.72,
+	"images": "../image/dơi/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 4.23, "y": 0.04 },
+	{ "name": "bone2", "parent": "bone", "length": 73.39, "rotation": 89.53, "x": 5.38, "y": -33.89 },
+	{ "name": "bone3", "parent": "bone2", "length": 27.82, "rotation": -31.67, "x": 87.87, "y": -35.22 },
+	{ "name": "bone4", "parent": "bone2", "length": 30.41, "rotation": 34.95, "x": 87.56, "y": 39.98 },
+	{ "name": "bone5", "parent": "bone2", "length": 25.43, "rotation": 133.07, "x": 2.01, "y": 49.24 },
+	{ "name": "bone6", "parent": "bone2", "length": 23.75, "rotation": -130.92, "x": 14.13, "y": -65.42 },
+	{ "name": "bone7", "parent": "bone2", "length": 29.62, "rotation": -72.94, "x": 37.74, "y": -72.17 },
+	{ "name": "bone8", "parent": "bone2", "length": 39.89, "rotation": 61, "x": 31.31, "y": 85.12 },
+	{ "name": "bone9", "parent": "bone2", "rotation": -89.53, "x": 34.59, "y": -19.04 },
+	{ "name": "bone10", "parent": "bone9", "length": 16.92, "rotation": 87.95, "x": 23.86, "y": -5.13 },
+	{ "name": "bone11", "parent": "bone9", "length": 19.93, "rotation": 89.13, "x": -29.9, "y": -13.29 }
+],
+"slots": [
+	{ "name": "_0007_canh-phai", "bone": "bone7", "attachment": "_0007_canh-phai" },
+	{ "name": "_0008_canh-trai", "bone": "bone8", "attachment": "_0008_canh-trai" },
+	{ "name": "_0006_tay-phai", "bone": "bone6", "attachment": "_0006_tay-phai" },
+	{ "name": "_0005_body", "bone": "bone2", "attachment": "_0005_body" },
+	{ "name": "_0000_mat-nham", "bone": "bone11", "attachment": "_0000_mat-nham" },
+	{ "name": "_0001_mat-mo", "bone": "bone10", "attachment": "_0001_mat-mo" },
+	{ "name": "_0003_sung-phai", "bone": "bone3", "attachment": "_0003_sung-phai" },
+	{ "name": "_0004_sung-trai", "bone": "bone4", "attachment": "_0004_sung-trai" },
+	{ "name": "_0002_tay-trai", "bone": "bone5", "attachment": "_0002_tay-trai" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"_0002_tay-trai": {
+				"_0002_tay-trai": { "x": 13.98, "y": -1.97, "rotation": 137.41, "width": 40, "height": 47 }
+			},
+			"_0000_mat-nham": {
+				"_0000_mat-nham": { "x": 14.4, "y": -21.72, "rotation": -89.13, "width": 97, "height": 52 }
+			},
+			"_0007_canh-phai": {
+				"_0007_canh-phai": { "x": 22.05, "y": 3.66, "rotation": -16.59, "width": 71, "height": 56 }
+			},
+			"_0005_body": {
+				"_0005_body": { "x": 39.34, "y": 13.26, "rotation": -89.53, "width": 186, "height": 177 }
+			},
+			"_0008_canh-trai": {
+				"_0008_canh-trai": { "x": 25.39, "y": -1.08, "rotation": -150.52, "width": 101, "height": 63 }
+			},
+			"_0001_mat-mo": {
+				"_0001_mat-mo": { "x": 4.79, "y": 31.75, "rotation": -87.95, "width": 98, "height": 52 }
+			},
+			"_0003_sung-phai": {
+				"_0003_sung-phai": { "x": 19.63, "y": 6.11, "rotation": -57.86, "width": 42, "height": 69 }
+			},
+			"_0006_tay-phai": {
+				"_0006_tay-phai": { "x": 14.23, "y": 2.95, "rotation": 41.39, "width": 42, "height": 50 }
+			},
+			"_0004_sung-trai": {
+				"_0004_sung-trai": { "x": 19.72, "y": -7.11, "rotation": -124.48, "width": 42, "height": 69 }
+			}
+		}
+	}
+],
+"animations": {
+	"attack": {
+		"slots": {
+			"_0001_mat-mo": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "_0001_mat-mo" }
+				]
+			}
+		},
+		"bones": {
+			"bone3": {
+				"rotate": [
+					{ "angle": -14.38 },
+					{ "time": 0.5, "angle": -1.72 },
+					{ "time": 1, "angle": -14.38 }
+				]
+			},
+			"bone2": {
+				"translate": [
+					{ "x": -0.06, "y": -7.65 },
+					{ "time": 0.5, "x": 0.14, "y": 17.17 },
+					{ "time": 1, "x": -0.06, "y": -7.65 }
+				]
+			},
+			"bone8": {
+				"rotate": [
+					{ "angle": 39.83 },
+					{ "time": 0.5, "angle": -4.66 },
+					{ "time": 1, "angle": 39.83 }
+				]
+			},
+			"bone7": {
+				"rotate": [
+					{ "angle": -40.41 },
+					{ "time": 0.5, "angle": -2.41 },
+					{ "time": 1, "angle": -40.41 }
+				]
+			},
+			"bone4": {
+				"rotate": [
+					{ "angle": 11.5 },
+					{ "time": 0.5, "angle": -0.33 },
+					{ "time": 1, "angle": 11.5 }
+				]
+			},
+			"bone5": {
+				"rotate": [
+					{},
+					{ "time": 0.0667, "angle": -36.52 },
+					{ "time": 0.2333, "angle": 49.46 },
+					{ "time": 1 }
+				]
+			}
+		}
+	},
+	"idle": {
+		"slots": {
+			"_0001_mat-mo": {
+				"attachment": [
+					{ "time": 0.3333, "name": null },
+					{ "time": 0.5, "name": "_0001_mat-mo" }
+				]
+			}
+		},
+		"bones": {
+			"bone2": {
+				"translate": [
+					{ "x": -0.06, "y": -7.65 },
+					{ "time": 0.5, "x": 0.14, "y": 17.17 },
+					{ "time": 1, "x": -0.06, "y": -7.65 }
+				]
+			},
+			"bone8": {
+				"rotate": [
+					{ "angle": 39.83 },
+					{ "time": 0.5, "angle": -4.66 },
+					{ "time": 1, "angle": 39.83 }
+				]
+			},
+			"bone7": {
+				"rotate": [
+					{ "angle": -40.41 },
+					{ "time": 0.5, "angle": -2.41 },
+					{ "time": 1, "angle": -40.41 }
+				]
+			},
+			"bone3": {
+				"rotate": [
+					{ "angle": -14.38 },
+					{ "time": 0.5, "angle": -1.72 },
+					{ "time": 1, "angle": -14.38 }
+				]
+			},
+			"bone4": {
+				"rotate": [
+					{ "angle": 11.5 },
+					{ "time": 0.5, "angle": -0.33 },
+					{ "time": 1, "angle": 11.5 }
+				]
+			}
+		}
+	}
+}
+}

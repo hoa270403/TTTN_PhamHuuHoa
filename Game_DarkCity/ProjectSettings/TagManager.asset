@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Box
+  - health
+  - Bullet
+  - Enemi
+  - Coin
+  - dichchuyen
+  - dichuyen1
+  - key
+  - BackgroundSound
+  - Item
+  - hutdame
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - itemLayer
+  - Water
+  - UI
+  - Item
+  - spawnTrigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: itemLayer
+    uniqueID: 3232728499
+    locked: 0
+  - name: Item
+    uniqueID: 3003113401
+    locked: 0

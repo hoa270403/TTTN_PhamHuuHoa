@@ -1,0 +1,111 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lgo_0001_Untitled-1_0000_Layer-1
+  rotate: false
+  xy: 2, 693
+  size: 581, 501
+  orig: 581, 501
+  offset: 0, 0
+  index: -1
+Lgo_0001_pngwing7.com-(6)-copy
+  rotate: false
+  xy: 2, 1196
+  size: 1776, 803
+  orig: 1776, 803
+  offset: 0, 0
+  index: -1
+set/setdanh_1
+  rotate: true
+  xy: 585, 612
+  size: 146, 671
+  orig: 146, 671
+  offset: 0, 0
+  index: -1
+set/setdanh_11
+  rotate: true
+  xy: 1261, 1055
+  size: 139, 668
+  orig: 139, 668
+  offset: 0, 0
+  index: -1
+set/setdanh_2
+  rotate: true
+  xy: 519, 425
+  size: 185, 670
+  orig: 185, 670
+  offset: 0, 0
+  index: -1
+set/setdanh_25
+  rotate: true
+  xy: 1254, 819
+  size: 116, 673
+  orig: 116, 673
+  offset: 0, 0
+  index: -1
+set/setdanh_30
+  rotate: true
+  xy: 519, 143
+  size: 139, 669
+  orig: 139, 669
+  offset: 0, 0
+  index: -1
+set/setdanh_33
+  rotate: true
+  xy: 519, 284
+  size: 139, 670
+  orig: 139, 670
+  offset: 0, 0
+  index: -1
+set/setdanh_34
+  rotate: false
+  xy: 2, 2
+  size: 273, 689
+  orig: 273, 689
+  offset: 0, 0
+  index: -1
+set/setdanh_5
+  rotate: true
+  xy: 519, 20
+  size: 121, 674
+  orig: 121, 674
+  offset: 0, 0
+  index: -1
+set/setdanh_56
+  rotate: true
+  xy: 585, 954
+  size: 240, 674
+  orig: 240, 674
+  offset: 0, 0
+  index: -1
+set/setdanh_57
+  rotate: false
+  xy: 277, 24
+  size: 240, 667
+  orig: 240, 667
+  offset: 0, 0
+  index: -1
+set/setdanh_58
+  rotate: false
+  xy: 1780, 1315
+  size: 247, 684
+  orig: 247, 684
+  offset: 0, 0
+  index: -1
+set/setdanh_7
+  rotate: true
+  xy: 585, 760
+  size: 192, 667
+  orig: 192, 667
+  offset: 0, 0
+  index: -1
+set/setdanh_9
+  rotate: true
+  xy: 1261, 937
+  size: 116, 673
+  orig: 116, 673
+  offset: 0, 0
+  index: -1

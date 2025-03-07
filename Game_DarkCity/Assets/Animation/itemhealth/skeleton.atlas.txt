@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lens-flare-png-6913
+  rotate: false
+  xy: 99, 48
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+snapedit_1740666356697
+  rotate: false
+  xy: 2, 2
+  size: 95, 93
+  orig: 95, 93
+  offset: 0, 0
+  index: -1

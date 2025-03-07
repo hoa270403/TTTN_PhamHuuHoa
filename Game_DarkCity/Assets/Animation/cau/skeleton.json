@@ -1,0 +1,119 @@
+{
+"skeleton": {
+	"hash": "4SOAOjNsHd0ZG5XPmeKFdHJYmmM",
+	"spine": "3.8.75-beta",
+	"x": -415.94,
+	"y": -171.28,
+	"width": 514.71,
+	"height": 359.82,
+	"images": "../ASSET SPRITE/forturn trea/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root", "x": 3.23, "y": 1.61 },
+	{
+		"name": "bone18",
+		"parent": "root",
+		"rotation": 0.19,
+		"x": -0.17,
+		"y": 2.85,
+		"scaleX": 1.1287,
+		"scaleY": 1.1287
+	}
+],
+"slots": [
+	{ "name": "cau_0", "bone": "bone18", "attachment": "cau_0" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"cau_0": {
+				"cau_0": { "y": 0.5, "width": 270, "height": 271 },
+				"cau_1": { "y": 0.5, "width": 270, "height": 271 },
+				"cau_2": { "y": 0.5, "width": 262, "height": 263 },
+				"cau_3": { "y": 0.5, "width": 256, "height": 255 },
+				"cau_4": { "y": 0.5, "width": 252, "height": 253 },
+				"cau_5": { "y": 0.5, "width": 262, "height": 263 },
+				"cau_6": { "y": 0.5, "width": 244, "height": 245 },
+				"cau_7": { "width": 248, "height": 248 },
+				"cau_8": { "y": 0.5, "width": 240, "height": 241 },
+				"cau_9": { "y": 0.5, "width": 234, "height": 235 },
+				"cau_10": { "y": 0.5, "width": 224, "height": 225 },
+				"cau_11": { "x": 0.5, "y": 0.5, "width": 217, "height": 217 },
+				"cau_12": { "y": 0.5, "width": 226, "height": 227 },
+				"cau_13": { "y": 0.5, "width": 232, "height": 233 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"cau_0": {
+				"attachment": [
+					{ "name": "cau_0" },
+					{ "time": 0.0667, "name": "cau_1" },
+					{ "time": 0.1333, "name": "cau_2" },
+					{ "time": 0.2, "name": "cau_3" },
+					{ "time": 0.2667, "name": "cau_4" },
+					{ "time": 0.3333, "name": "cau_5" },
+					{ "time": 0.4, "name": "cau_6" },
+					{ "time": 0.4667, "name": "cau_7" },
+					{ "time": 0.5333, "name": "cau_8" },
+					{ "time": 0.6, "name": "cau_9" },
+					{ "time": 0.6667, "name": "cau_10" },
+					{ "time": 0.7333, "name": "cau_11" },
+					{ "time": 0.8, "name": "cau_12" },
+					{ "time": 0.8667, "name": "cau_13" },
+					{ "time": 0.9333, "name": "cau_0" },
+					{ "time": 1, "name": "cau_1" },
+					{ "time": 1.0667, "name": "cau_2" },
+					{ "time": 1.1333, "name": "cau_3" },
+					{ "time": 1.2, "name": "cau_4" },
+					{ "time": 1.2667, "name": "cau_5" },
+					{ "time": 1.3333, "name": "cau_6" },
+					{ "time": 1.4, "name": "cau_7" },
+					{ "time": 1.4667, "name": "cau_8" },
+					{ "time": 1.5333, "name": "cau_9" },
+					{ "time": 1.6, "name": "cau_10" },
+					{ "time": 1.6667, "name": "cau_11" },
+					{ "time": 1.7333, "name": "cau_12" },
+					{ "time": 1.8, "name": "cau_13" },
+					{ "time": 1.8667, "name": "cau_0" },
+					{ "time": 1.9333, "name": "cau_1" },
+					{ "time": 2, "name": "cau_2" },
+					{ "time": 2.0667, "name": "cau_3" },
+					{ "time": 2.1333, "name": "cau_4" },
+					{ "time": 2.2, "name": "cau_5" },
+					{ "time": 2.2667, "name": "cau_6" },
+					{ "time": 2.3333, "name": "cau_7" },
+					{ "time": 2.4, "name": "cau_8" },
+					{ "time": 2.4667, "name": "cau_9" },
+					{ "time": 2.5333, "name": "cau_10" },
+					{ "time": 2.6, "name": "cau_11" },
+					{ "time": 2.6667, "name": "cau_12" },
+					{ "time": 2.7333, "name": "cau_13" },
+					{ "time": 2.8, "name": "cau_6" },
+					{ "time": 2.8667, "name": "cau_7" },
+					{ "time": 2.9333, "name": "cau_8" },
+					{ "time": 3, "name": "cau_9" },
+					{ "time": 3.0667, "name": "cau_10" },
+					{ "time": 3.1333, "name": "cau_11" },
+					{ "time": 3.2, "name": "cau_12" },
+					{ "time": 3.2667, "name": "cau_13" }
+				]
+			}
+		},
+		"bones": {
+			"bone18": {
+				"rotate": [
+					{ "angle": -0.19 },
+					{ "time": 1.6667, "angle": 179.81 },
+					{ "time": 3.3, "angle": -0.19 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,54 @@
+{
+"skeleton": {
+	"hash": "1NU0LijQQy1a0ccsFFPLfCkS7QY",
+	"spine": "3.8.75-beta",
+	"x": -256.25,
+	"y": -255.71,
+	"width": 510.15,
+	"height": 510.15,
+	"images": "E:/AssetGame/image/fx",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -0.14, "y": 0.16 },
+	{ "name": "bone2", "parent": "root", "x": -0.14, "y": 0.16, "scaleX": 1.2003, "scaleY": 1.2003 }
+],
+"slots": [
+	{ "name": "fx2", "bone": "bone", "attachment": "fx2" },
+	{ "name": "fx3", "bone": "bone2", "attachment": "fx2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"fx2": {
+				"fx2": { "x": -0.86, "y": -0.66, "width": 425, "height": 425 }
+			},
+			"fx3": {
+				"fx2": { "x": -0.86, "y": -0.66, "width": 425, "height": 425 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bone": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": 180 },
+					{ "time": 1 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": 180 },
+					{ "time": 1 }
+				]
+			}
+		}
+	}
+}
+}
